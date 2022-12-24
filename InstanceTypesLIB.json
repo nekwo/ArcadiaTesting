@@ -1,4 +1,4 @@
-[{"Actors":
+{"List":[{"Actors":
     [{
         "Type": "Text",
         "Transform":{
@@ -142,4 +142,4 @@
     "Tags":[]
 }
 
-]
+]}
