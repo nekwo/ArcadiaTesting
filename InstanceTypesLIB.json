@@ -2,8 +2,8 @@
     [{
         "Type": "Text",
         "Transform":{
-        "Location":{"x":-290,"y":-60,"z":150},
-        "rotation":{"pitch":0,"yaw":0,"roll":0 },
+        "translation":{"x":-290,"y":-60,"z":150},
+        "rotation":{"pitch":2,"yaw":2,"roll":2 },
         "scale":{"x":1,"y":1,"z":1}
             },
         "Text": "Hello World konichiwa",
