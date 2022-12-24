@@ -1,9 +1,9 @@
-{"Actors":
+[{"Actors":
     [{
         "Type": "Text",
         "Transform":{
         "translation":{"x":-290,"y":-60,"z":150},
-        "rotation":{"pitch":2,"yaw":2,"roll":2 },
+        "rotation":{"pitch":0,"yaw":0,"roll":0 },
         "scale":{"x":1,"y":1,"z":1}
             },
         "Text": "Hello World konichiwa",
@@ -40,7 +40,106 @@
         "Animation":""
         
     }      
-    ]
+    ],
+    "Assets":[],
+    "PostID": 123,
+    "Tags":[]
+},
+
+{"Actors":
+    [{
+        "Type": "Text",
+        "Transform":{
+        "translation":{"x":-290,"y":-60,"z":150},
+        "rotation":{"pitch":0,"yaw":0,"roll":0 },
+        "scale":{"x":1,"y":1,"z":1}
+            },
+        "Text": "Hello World konichiwa 2",
+        "DrawSize":[50,200],
+        "Font": "",
+        "TypeFace":"Bold",
+        "FontSize": 12,
+        "letterSpacing": 0,
+        "Skew":0,
+        "TextColor":[0,0,0,1,0,0],
+        "BackgroundColor":[0,0,0,1,0,0]
+    },
+    {
+            "Type": "Mesh",
+            "AssetRef":"",
+            "Transform":{
+            "Location":"0,0,0",
+            "rotation":"0,0,0",
+            "scale":"0,0,0"
+                },
+            "Material":""
+            
+    }, 
+     {
+        "Type": "SkeletalMesh",
+        "AssetRef":"",
+        "Transform":{
+        "Location":"0,0,0",
+        "rotation":"0,0,0",
+        "scale":"0,0,0"
+    
+            },
+        "Material":"",
+        "Animation":""
+        
+    }      
+    ],
+    "Assets":[],
+    "PostID": 123,
+    "Tags":[]
+},
+
+{"Actors":
+    [{
+        "Type": "Text",
+        "Transform":{
+        "translation":{"x":-290,"y":-60,"z":150},
+        "rotation":{"pitch":0,"yaw":0,"roll":0 },
+        "scale":{"x":1,"y":1,"z":1}
+            },
+        "Text": "Hello World konichiwa 3",
+        "DrawSize":[50,200],
+        "Font": "",
+        "TypeFace":"Bold",
+        "FontSize": 12,
+        "letterSpacing": 0,
+        "Skew":0,
+        "TextColor":[0,0,0,1,0,0],
+        "BackgroundColor":[0,0,0,1,0,0]
+    },
+    {
+            "Type": "Mesh",
+            "AssetRef":"",
+            "Transform":{
+            "Location":"0,0,0",
+            "rotation":"0,0,0",
+            "scale":"0,0,0"
+                },
+            "Material":""
+            
+    }, 
+     {
+        "Type": "SkeletalMesh",
+        "AssetRef":"",
+        "Transform":{
+        "Location":"0,0,0",
+        "rotation":"0,0,0",
+        "scale":"0,0,0"
+    
+            },
+        "Material":"",
+        "Animation":""
+        
+    }      
+    ],
+    "Assets":[],
+    "PostID": 123,
+    "Tags":[]
 }
 
-
+]
