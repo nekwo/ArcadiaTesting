@@ -1,0 +1,46 @@
+{"Actors":
+    [{
+        "Type": "Text",
+        "Transform":{
+        "Location":[-290,-60,150],
+        "rotation":[0,0,0],
+        "scale":[0,0,0]
+            },
+        "Text": "Hello World konichiwa",
+        "DrawSize":[50,200],
+        "Font": "",
+        "TypeFace":"Bold",
+        "FontSize": 12,
+        "letterSpacing": 0,
+        "Skew":0,
+        "TextColor":[0,0,0,1,0,0],
+        "BackgroundColor":[0,0,0,1,0,0]
+    },
+        {
+            "Type": "Mesh",
+            "AssetRef":"",
+            "Transform":{
+            "Location":"0,0,0",
+            "rotation":"0,0,0",
+            "scale":"0,0,0"
+                },
+            "Material":""
+            
+        }, 
+     {
+        "Type": "SkeletalMesh",
+        "AssetRef":"",
+        "Transform":{
+        "Location":"0,0,0",
+        "rotation":"0,0,0",
+        "scale":"0,0,0"
+    
+            },
+        "Material":"",
+        "Animation":""
+        
+        }      
+    ]
+}
+
+
