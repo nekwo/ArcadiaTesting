@@ -7,7 +7,7 @@
         "scale":{"x":1,"y":1,"z":1}
             },
         "Text": "Hello World konichiwa",
-        "DrawSize":[50,200],
+        "DrawSize":[500,200],
         "Font": "",
         "TypeFace":"Bold",
         "FontSize": 12,
@@ -55,7 +55,7 @@
         "scale":{"x":1,"y":1,"z":1}
             },
         "Text": "Hello World konichiwa",
-        "DrawSize":[50,200],
+        "DrawSize":[500,200],
         "Font": "",
         "TypeFace":"Bold",
         "FontSize": 12,
@@ -103,7 +103,7 @@
         "scale":{"x":1,"y":1,"z":1}
             },
         "Text": "Hello World konichiwa",
-        "DrawSize":[50,200],
+        "DrawSize":[500,200],
         "Font": "",
         "TypeFace":"Bold",
         "FontSize": 12,
