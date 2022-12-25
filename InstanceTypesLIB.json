@@ -2,8 +2,8 @@
     [{
         "Type": "Text",
         "Transform":{
-        "translation":{"x":-290,"y":-60,"z":150},
-        "rotation":{"pitch":0,"yaw":0,"roll":0 },
+        "translation":{"x":-11.684318,"y":-301.46533,"z":150},
+        "rotation":{"pitch":0,"yaw":0,"roll":-179.999999 },
         "scale":{"x":1,"y":1,"z":1}
             },
         "Text": "Hello World konichiwa",
@@ -13,7 +13,7 @@
         "FontSize": 12,
         "letterSpacing": 0,
         "Skew":0,
-        "TextColor":{"r":0,"g":1,"b":0,"a":1},
+        "TextColor":{"r":0,"g":0,"b":0,"a":1},
         "BackgroundColor":{"r":0,"g":0,"b":0,"a":1}
     },
     {
@@ -50,8 +50,8 @@
     [{
         "Type": "Text",
         "Transform":{
-        "translation":{"x":-290,"y":-60,"z":150},
-        "rotation":{"pitch":0,"yaw":0,"roll":0 },
+        "translation":{"x":-11.684318,"y":-301.46533,"z":150},
+        "rotation":{"pitch":0,"yaw":0,"roll":-179.999999 },
         "scale":{"x":1,"y":1,"z":1}
             },
         "Text": "Hello World konichiwa",
@@ -61,7 +61,7 @@
         "FontSize": 12,
         "letterSpacing": 0,
         "Skew":0,
-        "TextColor":{"r":0,"g":1,"b":0,"a":1},
+        "TextColor":{"r":0,"g":0,"b":0,"a":1},
         "BackgroundColor":{"r":0,"g":0,"b":0,"a":1}
     },
     {
@@ -98,8 +98,8 @@
     [{
         "Type": "Text",
         "Transform":{
-        "translation":{"x":-290,"y":-60,"z":150},
-        "rotation":{"pitch":0,"yaw":0,"roll":0 },
+        "translation":{"x":-11.684318,"y":-301.46533,"z":150},
+        "rotation":{"pitch":0,"yaw":0,"roll":-179.999999 },
         "scale":{"x":1,"y":1,"z":1}
             },
         "Text": "Hello World konichiwa",
@@ -109,7 +109,7 @@
         "FontSize": 12,
         "letterSpacing": 0,
         "Skew":0,
-        "TextColor":{"r":1,"g":0,"b":0,"a":1},
+        "TextColor":{"r":0,"g":0,"b":0,"a":1},
         "BackgroundColor":{"r":0,"g":0,"b":0,"a":1}
     },
     {
